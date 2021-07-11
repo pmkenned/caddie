@@ -1,0 +1,17 @@
+{
+    "shapes": {
+        "cube": {
+            "vertices": [],
+            "faces": []
+        }
+    },
+    "materials": {
+        "basic": {
+            "color": "",
+            "opacity": 1.0
+        }
+    },
+    "objects": [
+        { "shape": "cube", "xp": -0.5, "yp": 122.75, "zp": 45.5, "xs": 1.0, "ys": 245.5, "zs": 91.0 }
+    ]
+}
